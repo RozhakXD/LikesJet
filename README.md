@@ -27,9 +27,9 @@ $ python Run.py
 ```
 
 ## 🌟 How It Works
-- **Progress Display**: Tracks and displays successes, failures, and retries in real-time.
 - **Secure Requests**: Sends like requests using randomized headers for better success rates.
 - **Input Validation**: Automatically corrects and verifies Instagram links.
+- **Progress Display**: Tracks and displays successes, failures, and retries in real-time.
 
 ## ⚠️ Important Notes
 - **Private Accounts**: Ensure your Instagram account is public; private posts cannot receive likes.
@@ -38,17 +38,16 @@ $ python Run.py
 - **Ethical Usage**: Use responsibly—LikesJet is a tool for personal engagement enhancement, not spam.
 
 ## 🛡️ Disclaimer
-
-This project is created solely for educational and personal use. The developers do not condone or encourage any misuse of this tool that violates Instagram's policies, terms of service, or any applicable laws. By using LikesJet, you acknowledge that:
+This project is intended for educational and personal use only. The developers do not support or encourage any misuse of this tool that violates Instagram's policies, terms of service, or applicable laws. By using LikesJet, you agree to:
 
 1. You are solely responsible for how you use this tool.
 2. Any consequences resulting from the misuse of this tool, including account bans or other penalties, are your responsibility.
 3. This tool is provided "as-is," without any warranty of any kind, either express or implied.
 
-Please use LikesJet ethically and responsibly to enhance personal engagement without disrupting the Instagram ecosystem or infringing on others' rights.
+Use LikesJet ethically and responsibly to enhance personal engagement without disrupting Instagram's ecosystem or infringing on others' rights.
 
 ## 🖼️ Screenshots
-![]()
+![FunPic_20241202](https://github.com/user-attachments/assets/19813e90-8c5e-467d-9f8e-0b120f7670d7)
 
 ## 🌟 Support the Developer
 If you find this tool helpful, consider supporting the development through [Trakteer](https://trakteer.id/rozhak_official/tip), [PayPal](https://paypal.me/rozhak9), or [Saweria](https://saweria.co/rozhak9). Your support helps us maintain and improve this project. ❤️
