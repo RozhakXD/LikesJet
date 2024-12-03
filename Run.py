@@ -105,7 +105,6 @@ def KirimkanSuka(tautanPostingan: str) -> bool:
                 'User-Agent': '{}'.format(UserAgent().random),
             }
             response = session.get('https://likesjet.com/free-instagram-likes', allow_redirects=True, verify=True)
-            #open('Penyimpanan/Index.html', 'w+').write(response.text)
 
             data = json.dumps(
                 ParameterPalsu(tautanPostingan)
@@ -126,7 +125,6 @@ def KirimkanSuka(tautanPostingan: str) -> bool:
             )
 
             response2 = session.post('https://api.likesjet.com/freeboost/7', data=data, verify=True, allow_redirects=False)
-            #open('Penyimpanan/Index2.html', 'w+').write(response2.text)
             LOOPING += 1
             if 'You can only receive likes once per day.' in response2.text:
                 printf(f"[bold bright_black]   ──>[bold red] You can only receive likes once a day!         ", end="\r")
